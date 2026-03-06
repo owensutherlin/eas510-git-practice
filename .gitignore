@@ -1,0 +1,16 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Data folders
+data/
+
+# Machine learning models
+models/
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
